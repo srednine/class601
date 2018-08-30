@@ -1,0 +1,172 @@
+@charset "UTF-8";
+
+/**/
+.wrap{
+	margin:0 auto;
+	width:1100px;
+}
+
+/*index*/
+.index_config{
+	text-align: center;
+	font-size: 150px;
+	padding : 200px 0;
+}
+
+/*login*/
+.rn_loginBox{
+	margin : 0 auto;
+	width : 350px;
+	/*height : 370px;*/
+	border : 10px solid gray;
+	border-radius : 50px;
+	text-align: center;
+}
+
+/*join*/
+.rn_frm_Box{
+	margin : 0 auto;
+	width : 350px;
+	/*height : 670px;*/
+	border : 10px solid gray;
+	border-radius : 50px;
+	text-align: center;
+}
+
+.rn_frm{
+	width : 280px;
+	margin : 0 auto;
+}
+
+.rn_overlap{
+	text-align:left;
+}
+
+.rn_input{
+	width : 280px;
+	font-size : 20pt;
+	border : 1px solid black;
+	border-radius : 5px;
+	/* margin-bottom : 20px; */
+}
+
+.rn_frm_row{
+	margin : 10px 0;	
+}
+
+.rn_btn{
+	display : inline-block;
+	width : 280px;
+	cursor : pointer;
+	/* height : 30px; */
+	text-decoration : none;
+	padding : 5px 15px;
+	font-size: 20pt;
+	margin : 5px 0;
+	line-height: 30px;
+	border-radius : 10px;
+	text-align : center;
+}
+
+.rn_btn_list{
+	text-align:center;
+	margin-bottom:10px;
+}
+
+a.rn_btn { 
+	text-decoration:none;
+}
+
+.rn_btn_A{
+	color : black;
+	background : #ffa50014;
+	border : 2px solid orange;	
+}
+
+.rn_btn_B{
+	color : black;
+	background : #0000ff0d;
+	border : 2px solid blue;
+}
+
+.rn_btn_C{
+	color : black;
+	background : #ffc0cb26;
+	border : 2px solid pink;
+}
+
+.rn_btn_A:hover{
+	background : #ffa5006b;
+	color : white;
+}
+
+.rn_btn_B:hover{
+	background : #0000ff52;
+	color : white;
+}
+
+.rn_btn_C:hover{
+	background : #ffc0cb69;
+	color : white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
